@@ -1,0 +1,23 @@
+{
+  "name": "unlockaccount",
+  "version": "1.0.1",
+  "description": "quickly unlock accounts for testing in ganache",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n4ru/unlockAccount.git"
+  },
+  "author": "n4ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n4ru/unlockAccount/issues"
+  },
+  "homepage": "https://github.com/n4ru/unlockAccount#readme",
+  "dependencies": {
+    "ethers": "^6.0.8"
+  }
+}
